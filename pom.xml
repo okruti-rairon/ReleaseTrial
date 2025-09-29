@@ -9,7 +9,7 @@
 	</parent>
 	<groupId>com.example</groupId>
 	<artifactId>trials</artifactId>
-	<version>0.0.2-SNAPSHOT</version>
+	<version>0.0.2</version>
 	<name>trials</name>
 	<description>Demo project for Spring Boot</description>
 
@@ -17,7 +17,7 @@
         <url>https://github.com/okruti-rairon/ReleaseTrial</url>
         <connection>scm:git:git://github.com/okruti-rairon/ReleaseTrial.git</connection>
         <developerConnection>scm:git:ssh://git@github.com/okruti-rairon/ReleaseTrial.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>0.0.2-SNAPSHOT</tag>
     </scm>
     <properties>
 		<java.version>21</java.version>

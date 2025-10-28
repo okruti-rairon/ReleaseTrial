@@ -8,6 +8,7 @@ public class TrialsApplication {
 
 	public static void main(String[] args) {
         System.out.println("This is a new change to check the difference....... ");
+        System.out.println("Once Again.......");
 		SpringApplication.run(TrialsApplication.class, args);
 	}
 

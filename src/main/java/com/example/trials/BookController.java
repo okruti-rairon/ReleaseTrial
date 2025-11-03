@@ -39,7 +39,6 @@ public class BookController {
         if (book != null) {
             book.setTitle(bookDetails.getTitle());
             book.setAuthor(bookDetails.getAuthor());
-            System.out.println("s");
             return repository.save(book);
         }
         return null;
